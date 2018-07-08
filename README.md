@@ -1,2 +1,2 @@
-# NodeModuleByTypescript
-To enable you create node modules by using typescript.
+#Create Node Modules by Typescript
+Modules/Controllers could be found in src/controllers.
